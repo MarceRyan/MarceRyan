@@ -1,4 +1,4 @@
-# <span style="color:green">¡Bienvenido a mi perfil de GitHub! 👋</span>
+# ¡Bienvenido a mi perfil de GitHub! 👋
 
 ¡Hola! Me llamo Marcelo, una persona apasionada y altamente interesada en la tecnología y sus aplicaciones. Me encanta explorar nuevas herramientas, aprender sobre las últimas tendencias y desarrollar soluciones creativas a través del uso de la tecnología.
 
