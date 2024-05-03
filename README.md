@@ -21,8 +21,12 @@ Me considero una persona proactiva, multitarea y con gran capacidad de aprendiza
 - Portafolio Personal --> (link al proyecto)
 - Página Web oficial de la empresa INMA S.A.C. --> [(link de la Página)](https://corporacioninma.com/)
 
-## Estadísticas de GitHub
+## Contacto
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tunombre&show_icons=true)
+¡No dudes en ponerte en contacto conmigo!
+
+- Correo electrónico: marcelo999546479@gmail.com
+- LinkedIn: https://www.linkedin.com/in/morales-rimac-marcelo
+- Facebook: https://www.facebook.com/Marcelo.Ryan.MR14/
 
 ¡Gracias por visitar mi perfil! 😊
