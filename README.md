@@ -1,4 +1,4 @@
-![image](https://github.com/MarceRyan/MarceRyan/assets/92840638/e0110a3e-6217-4c62-b0e9-59637ac34fd6)![image](https://github.com/MarceRyan/MarceRyan/assets/92840638/00f986b8-4aa4-4e24-a94e-5da9b0e8c265)# ¡Bienvenido a mi perfil de GitHub! 👋
+# ¡Bienvenido a mi perfil de GitHub! 👋
 
 ¡Hola! Me llamo Marcelo, una persona apasionada y altamente interesada en la tecnología y sus aplicaciones. Me encanta explorar nuevas herramientas, aprender sobre las últimas tendencias y desarrollar soluciones creativas a través del uso de la tecnología.
 
